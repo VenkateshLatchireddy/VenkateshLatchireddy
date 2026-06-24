@@ -21,7 +21,7 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 
 - 🚀 Focused on **Web Development, Deployment**.
 - 🛠 Exploring **Leadership & Product Management**.
-- 📸 Outside of code: **Love playing games Watching Movies**.
+- 📸 Outside of code: **Love playing games | Watching Movies**.
 - 🤔 Love discussion related to new technologies. on {https://cal.com/venkatesh-latchireddy-mvpwhr}
 ---
 
@@ -42,8 +42,6 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 </p>
 
 ### **Miscellaneous**
-<p>
-  ### **Miscellaneous**
 <p>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -79,6 +77,6 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 
 ---
 
-⭐ **[Vedant Bhawsar](https://github.com/vedantbhawsar)** — Let’s build the future together 🚀
+⭐ **[Venkatesh Latchireddy](https://github.com/VenkateshLatchireddy)** — Let’s build the future together 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
