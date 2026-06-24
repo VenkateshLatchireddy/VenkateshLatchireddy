@@ -9,7 +9,7 @@
       </a>
     </td>
     <td align="center" width="30%">
-      <img src="https://komarev.com/ghpvc/?username=vedantbhawsar&style=for-the-badge" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=VenkateshLatchireddy&style=for-the-badge%22%20alt=%22Profile%20Views" />
     </td>
   </tr>
 </table>
