@@ -5,7 +5,7 @@
   <tr>
     <td align="left" width="70%">
       <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=400&multiline=true&width=650&height=140&lines=%24+Hello👋🏼;I'm+Venkatesh Latchireddy!;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=800&size=35&duration=3000&pause=400&multiline=true&width=650&height=140&lines=%24+Hello%F0%9F%91%8B%F0%9F%8F%BC;I%27m+Venkatesh+Latchireddy!;Full+Stack+Developer!;" alt="Typing SVG" />
       </a>
     </td>
     <td align="center" width="30%">
