@@ -28,12 +28,11 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 ## ⚡ Skills & Technologies
 
 ### **Backend & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
