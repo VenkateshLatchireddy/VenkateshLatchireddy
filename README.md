@@ -5,11 +5,11 @@
   <tr>
     <td align="left" width="70%">
       <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=400&multiline=true&width=650&height=140&lines=%24+Hello👋🏼;I'm+Vedant+Bhawsar!;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=400&multiline=true&width=650&height=140&lines=%24+Hello👋🏼;I'm+Venkatesh Latchireddy!;" alt="Typing SVG" />
       </a>
     </td>
     <td align="center" width="30%">
-      <img src="https://komarev.com/ghpvc/?username=Venkatesh Latchireddy&style=for-the-badge" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=vedantbhawsar&style=for-the-badge" alt="Profile Views" />
     </td>
   </tr>
 </table>
