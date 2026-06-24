@@ -64,7 +64,7 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenkateshLatchireddy&theme=chartreuse_dark"/>
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VenkateshLatchireddy&theme=chartreuse_dark"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkatesh&theme=chartreuse_dark"/>
     </td>
   </tr>
 </table>
