@@ -64,7 +64,7 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenkateshLatchireddy&theme=chartreuse_dark"/>
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venkatesh&theme=chartreuse_dark"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VenkateshLatchireddy&theme=chartreuse_dark"/>
     </td>
   </tr>
 </table>
@@ -73,10 +73,8 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 
 ## 📫 Connect with Me
 <p>
-  <a href="mailto:vedantbhavsar.10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/vedantbhawsar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/vedantbhawsar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.gg/Vedant#6729"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" /></a>
+  <a href="mailto:venkatesh.lachireddi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/venkatesh-l-8160431b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
