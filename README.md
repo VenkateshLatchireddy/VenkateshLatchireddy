@@ -55,10 +55,9 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=VenkateshLatchireddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vedantbhawsar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantbhawsar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=VenkateshLatchireddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=VenkateshLatchireddy&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkateshLatchireddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <table>
   <tr>
     <td>
