@@ -19,25 +19,27 @@
 💡 **Turning imagination into reality** — designing seamless digital experiences, blending creativity with tech precision.  
 Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 
-- 🚀 Focused on **Web Development, DevOps, and Cloud Engineering**.
+- 🚀 Focused on **Web Development, Deployment**.
 - 🛠 Exploring **Leadership & Product Management**.
-- 📸 Outside of code: **Love playing games**.
-- 🤔 Love discussion related to new technologies. on {https://cal.com/vedant-bhawsar-rckbca/book-a-google-meet-call}
+- 📸 Outside of code: **Love playing games Watching Movies**.
+- 🤔 Love discussion related to new technologies. on {https://cal.com/venkatesh-latchireddy-mvpwhr}
 ---
 
 ## ⚡ Skills & Technologies
 
 ### **Backend & DevOps**
 <p>
-    <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 </p>
 
 ### **Web Development**
