@@ -57,7 +57,7 @@ Fueled by ☕ caffeine, 📚 curiosity, and a passion for **innovation**.
 
 ![](https://github-readme-stats.vercel.app/api?username=VenkateshLatchireddy&show_icons=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=VenkateshLatchireddy&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkateshLatchireddy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkateshLatchireddy&theme=dark&hide_border=true&layout=compact)
 <table>
   <tr>
     <td>
